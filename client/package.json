@@ -38,7 +38,7 @@
     "loop-protect": "^2.1.6",
     "monaco-editor-webpack-plugin": "^1.7.0",
     "nanoid": "^1.2.2",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.23.0",
     "query-string": "^6.4.2",
     "react": "^16.8.6",
     "react-calendar-heatmap": "^1.8.0",

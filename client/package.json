@@ -34,7 +34,7 @@
     "gatsby-source-filesystem": "^2.0.32",
     "gatsby-transformer-remark": "^2.3.12",
     "jquery": "3.3.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "loop-protect": "^2.1.6",
     "monaco-editor-webpack-plugin": "^1.7.0",
     "nanoid": "^1.2.2",
